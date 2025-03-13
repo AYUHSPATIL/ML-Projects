@@ -48,7 +48,7 @@ This project aims to predict flight ticket prices based on various factors such 
 ## Run the Jupyter Notebook to preprocess data and train models.
 
 ## 🔮 Future Scope
-🤖 Improve model accuracy with deep learning techniques (e.g., Neural Networks).
-🌐 Deploy the model as a web application for real-time price prediction.
-📡 Integrate external APIs for real-time flight data updates.
-📊 Enhance feature engineering with additional insights such as flight demand trends.
+- 🤖 Improve model accuracy with deep learning techniques (e.g., Neural Networks).
+- 🌐 Deploy the model as a web application for real-time price prediction.
+- 📡 Integrate external APIs for real-time flight data updates.
+- 📊 Enhance feature engineering with additional insights such as flight demand trends.
