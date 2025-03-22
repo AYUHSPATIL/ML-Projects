@@ -1,6 +1,5 @@
 # ML-Projects: Placement Predictor 🎓
 
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![scikit-learn Version](https://img.shields.io/badge/scikit--learn-0.24.2-orange.svg)](https://scikit-learn.org/stable/index.html)
 
