@@ -60,7 +60,7 @@ The dataset contains financial metrics for different loan applicants, including:
 - ✅ **Precision & Recall** – Essential for credit risk classification, ensuring fewer false positives and false negatives.  
 - ✅ **F1-Score** – Balances precision and recall, which is crucial for imbalanced datasets.  
 
-🛠 Since credit risk classification requires minimizing **false negatives** (wrongly classifying a risky applicant as safe), **recall** plays a significant role. However, **precision** is also vital to ensure that safe loans are
+🛠 Since credit risk classification requires minimizing **false negatives** (wrongly classifying a risky applicant as safe), **recall** plays a significant role. However, **precision** is also vital to ensure that loans given to safe applicant.
 
 ---
 
@@ -78,7 +78,7 @@ The dataset contains financial metrics for different loan applicants, including:
   
 - **Data cleaning** to handle missing values & outliers.  
 - **VIF analysis** to remove multicollinearity.  
-- **G2 Contingency Rule** for feature selection.  
+- **Chi2 Contingency Rule** for feature selection.  
 
 ---
 
