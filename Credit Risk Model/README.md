@@ -67,7 +67,7 @@ The dataset contains financial metrics for different loan applicants, including:
 ## 📚 What I Learned from This Project  
 
 ### 🔍 Understanding Credit Risk Modeling  
-![Credit Risk](https://via.placeholder.com/800x400?text=Credit+Risk+Modeling)  
+
 - Fundamentals of **credit risk assessment**.  
 - Role of **machine learning** in predicting defaults.  
 - Importance of **financial indicators** in risk evaluation.  
@@ -75,7 +75,7 @@ The dataset contains financial metrics for different loan applicants, including:
 ---
 
 ### 🛠 Data Preprocessing & Feature Engineering  
-![Data Preprocessing](https://via.placeholder.com/800x400?text=Data+Preprocessing)  
+  
 - **Data cleaning** to handle missing values & outliers.  
 - **VIF analysis** to remove multicollinearity.  
 - **G2 Contingency Rule** for feature selection.  
@@ -83,7 +83,7 @@ The dataset contains financial metrics for different loan applicants, including:
 ---
 
 ### 🤖 Building ML Models for Credit Risk  
-![Machine Learning Models](https://via.placeholder.com/800x400?text=ML+Models)  
+ 
 - Implemented **Logistic Regression, Random Forest, XGBoost**.  
 - Feature selection & **hyperparameter tuning** for optimization.  
 - Improved **model accuracy & generalization**.  
@@ -91,7 +91,7 @@ The dataset contains financial metrics for different loan applicants, including:
 ---
 
 ### 📊 Evaluation & Interpretation  
-![Model Evaluation](https://via.placeholder.com/800x400?text=Model+Evaluation)  
+ 
 - Used **precision, recall, F1-score, accuracy**.  
 - **Recall** prioritized to reduce false negatives.  
 - **Interpreted model insights** for financial decision-making.  
