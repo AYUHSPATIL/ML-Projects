@@ -5,16 +5,16 @@
 
 ## Project Overview 🚀
 
-This project aims to predict the placement status of a student based on their CGPA and IQ. The model is trained on a dataset containing CGPA, IQ, and placement status (0 or 1). It leverages Logistic Regression to classify students as either placed or not placed. This model can assist educational institutions in identifying students who may need additional support to improve their placement chances.
+This project aims to predict a student's placement status based on their CGPA and IQ. The model is trained on a dataset containing CGPA, IQ, and placement status (0 or 1). It leverages Logistic Regression to classify students as either placed or not placed. This model can assist educational institutions in identifying students who may need additional support to improve their placement chances.
 
-The value proposition is to provide a simple, yet effective, tool for predicting placement outcomes, enabling proactive interventions and resource allocation. The problem being solved is the uncertainty and lack of data-driven insights in student placement predictions.
+The value proposition is to provide a simple yet effective tool for predicting placement outcomes, enabling proactive interventions and resource allocation. The problem being solved is the uncertainty and lack of data-driven insights in student placement predictions.
 
 ## Key Features ✨
 
 *   **CGPA-based Prediction:** Uses Cumulative Grade Point Average as a key predictor.
 *   **IQ-based Prediction:** Integrates Intelligence Quotient as another important factor.
 *   **Logistic Regression Model:** Employs a widely-used classification algorithm for accurate predictions.
-*   **Scalable:** Can be trained on larger datasets with more features for enhanced accuracy.
+*   **Scalable:** It can be trained on larger datasets with more features for enhanced accuracy.
 *   **Easy to Use:** Simple installation and usage with clear instructions.
 
 ## Visual Demo 📊
@@ -41,7 +41,7 @@ bash
     *   Loads the data from `placement.csv`.
     *   Preprocesses the data (feature scaling).
     *   Trains a Logistic Regression model.
-    *   Evaluates the model's accuracy.
+    *   Evaluate the model's accuracy.
     *   Visualizes the decision boundary.
 
 ###  Code Configuration ⚙️
